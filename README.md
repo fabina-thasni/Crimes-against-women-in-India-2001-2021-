@@ -1,6 +1,7 @@
 # Crimes-against-women-in-India-2001-2021
 
-![image](https://github.com/user-attachments/assets/05c6230b-327a-4eb6-af7f-2c53d221835f)
+![image](https://github.com/user-attachments/assets/12ab0c4a-c42f-400d-992c-d8915828adc8)
+
 
 
 This project analyzes data on crimes against women in India over the past 20 years. It explores various crime categories such as rape, domestic violence, and dowry deaths, highlighting trends and regional variations.
